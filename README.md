@@ -7,7 +7,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Software Engineer Undergraduate` from the Faculty of Computer Science at Arab Open University
+- :school: I am a `computer science Student` at Arab Open University
 
 - 🔭 I'm currently working as a freelancing
 
