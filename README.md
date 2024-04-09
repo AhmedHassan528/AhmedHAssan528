@@ -17,9 +17,8 @@
 
 - 🔭 I’m worked on *CRM Software Solution*
 
-
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1HyP3E7MsGhheuTH-s1LKYGext9Exa17M/view?usp=sharing](https://drive.google.com/file/d/17RTMu5Z725wj8tgXN9FBQ5TiKSan4hiD/view?usp=sharing)).
-- :nerd_face: Always `learning new things`
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17RTMu5Z725wj8tgXN9FBQ5TiKSan4hiD/view?usp=drive_link).
+- - :nerd_face: Always `learning new things`
 - 📫 How to reach me **ahmed.hassan52852@gmail.com**
 - 🐼 Doing my best 
 - 💬 Ask me about *ASP.NET, jQuery*
